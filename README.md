@@ -87,7 +87,7 @@ The technique is well-suited for tasks requiring sustained focus, such as studyi
   </main>
 
   <footer>
-    <p>Created by [Your Name] | Published with GitHub Pages</p>
+    <p>Created by Matthew Chen | Published with GitHub Pages</p>
   </footer>
 </body>
 </html>
